@@ -1,3 +1,5 @@
+競馬予測プログラム（各馬の1着確率を予測）
+
 1. mongoDBをインストールする
 2. const.py の URI_MONGODB に mongoDB の path を記述する
 3. const.py の NAME_DB に DB名を記述する
